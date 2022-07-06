@@ -1,0 +1,255 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h3 {
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 80px;
+    margin: 0%;
+    text-align: center;
+}
+
+.top-banner {
+    padding-top: 200px;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
+
+.banner-background {
+    background-image: url(images/donation.jpg);
+    height: 1000px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.button {
+    text-decoration: none;
+    background-color: tomato;
+    padding: 20px 30px;
+    color: white;
+    font-weight: 400;
+    border-radius: 5px;
+    font-weight: bolder;
+}
+
+.donate-today {
+    padding-top: 150px;
+    text-align: center;
+}
+
+.donate-plan {
+    padding-top: 200px;
+}
+
+.horizontal-line {
+    width: 50%;
+    border-style: none;
+    border-top-style: solid;
+    border-color: gray;
+    padding-bottom: 50px;
+
+}
+
+.other-amount {
+    padding-top: 60px;
+    color: gray;
+    padding-bottom: 0;
+
+}
+
+.donation-amount {
+    background-color: #EFEFEF;
+    text-align: center;
+    color: gray;
+    height: 75px;
+    width: 125px;
+    border: 3px solid transparent;
+    border-radius: 5px;
+    padding-top: 50px;
+}
+
+.donation-plan {
+    text-align: left;
+    color: black;
+    height: 275px;
+    width: 325px;
+    border: 3px solid transparent;
+    border-radius: 5px;
+    padding-top: 50px;
+    padding-left: 40px;
+    font-size: 20px;
+}
+
+.bg-color-food {
+    background-color: #EAF6F6;
+}
+
+.bg-color-shelter {
+    background-color: #FFE6E6;
+}
+
+.bg-color-child {
+    background-color: #FFFDDE;
+}
+
+.set-amount {
+    display: flex;
+    padding-left: 28%;
+    padding-right: 20%;
+}
+
+.set-amount-donation-plan {
+    display: flex;
+    padding-left: 18%;
+}
+
+.input-box {
+    font-size: 25px;
+    padding-top: 50px;
+    border: none;
+    outline: none;
+    border-color: transparent;
+    text-align: center;
+}
+
+.set-amount-gap {
+    padding-left: 25px;
+}
+
+.color {
+    background-color: #FFF6F6;
+    border-color: #FF5D5D;
+    color: #FF5D5D;
+}
+
+.donation-plan-para {
+    font-size: 15px;
+    font-weight: lighter;
+}
+
+.how-to {
+    display: flex;
+    padding: 100px;
+}
+
+.half-width {
+    width: 50%;
+    padding: 2% 5%;
+}
+
+.half-width img {
+    width: 70%;
+    padding-left: 70px;
+}
+
+.how-to-para {
+    padding-bottom: 30px;
+    padding-left: 100px;
+    color: gray;
+}
+
+.how-to-heading {
+    padding-top: 10px;
+    padding-left: 100px;
+    font-size: 50px;
+    text-align: left;
+}
+
+.button-how-to {
+    text-decoration: none;
+    background-color: tomato;
+    padding: 20px 30px;
+    color: white;
+    font-weight: 400;
+    border-radius: 5px;
+    font-weight: bolder;
+}
+
+.padding-how-to {
+    padding-left: 100px;
+}
+
+.footer {
+    padding: 50px;
+    height: 100px;
+    background-color: black;
+    text-align: center;
+}
+
+.footer-header {
+    font-family: 'Lobster', cursive;
+    color: #ff5959;
+    font-size: 40px;
+    font-weight: 100;
+}
+
+.footer-para {
+    color: white;
+}
+
+.color-set {
+    color: gray;
+}
+
+.update-text {
+    text-align: center;
+}
+
+.update-donation-plan {
+    text-align: left;
+    color: black;
+    height: 180px;
+    width: 825px;
+    border: 3px solid transparent;
+    margin-left: 22%;
+    margin-top: 5%;
+    margin-bottom: 10%;
+    font-size: 20px;
+}
+
+.bg-color-update {
+    background-color: #fff4d6;
+    padding-left: 12%;
+}
+
+.input-box-subscribe {
+    background-color: #d9d9d9;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    font-size: 16px;
+    height: 50px;
+    width: 350px;
+    border: none;
+    outline: none;
+    border-color: transparent;
+    text-align: left;
+    padding-left: 20px;
+    margin-left: 60px;
+    margin-top: 60px;
+}
+
+.subscribe {
+    text-decoration: none;
+    background-color: tomato;
+    padding: 14px;
+    color: white;
+    font-weight: 400;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.flex {
+    display: flex;
+}
+
+.sub-div {
+    padding-top: 74px;
+}
